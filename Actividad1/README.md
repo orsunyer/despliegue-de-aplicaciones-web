@@ -5,8 +5,7 @@ nombre despliegue-de-aplicaciones-web.
 
 -Dandole a new repositori i pones el nuevo nombre indicado.
 
-![1](https://github.com/orsunyer/despliegue-de-aplicaciones-web/assets/144775484/163b16a0-ef4a-4fb2-8b05-1eead429d79b)
-
+![1](https://github.com/orsunyer/despliegue-de-aplicaciones-web/assets/144775484/437dd5a0-f344-4d78-a7ec-6425b7467875)
 
 ## Actividad 2
 Crea una carpeta en tu repositorio llamada “Actividad 1” y dentro crea un archivo
