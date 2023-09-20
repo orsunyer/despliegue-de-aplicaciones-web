@@ -13,7 +13,8 @@ README.md con la solución a los siguientes ejercicios.
 
 -Das click en create new file, pones el nombre de la carpeta/el nombre "Readme.md" y lo creas.
 
-![2](https://github.com/orsunyer/despliegue-de-aplicaciones-web/assets/144775484/b3b131ab-9c97-4608-806d-16ad78cd36e8)
+![2](https://github.com/orsunyer/despliegue-de-aplicaciones-web/assets/144775484/d0b903de-e00b-40f3-85c1-aec012b37eaf)
+
 
 ## Actividad 3
 Analiza los headers de las peticiones cuando inicias sesión en el Moodle y comprende
@@ -22,7 +23,7 @@ datos sensibles que se envían.
 
 -Desde inspeccionar "Network" te logeas, cargas la pagina y abres el primer archivo llamado "index.php". 
 
-![31](https://github.com/orsunyer/despliegue-de-aplicaciones-web/assets/144775484/1e66ac72-76cc-438c-a4bf-fd1697de78ab)
+![31](https://github.com/orsunyer/despliegue-de-aplicaciones-web/assets/144775484/f4892ddd-07f6-4da9-a258-3703b8431c78)
 
 ## Actividad 4
 ¿A qué puerto se reciben normalmente las peticiones del protocolo HTTP? ¿A qué
@@ -43,4 +44,5 @@ UDP, e IP?
 
 -Abres el ejecutador utilizando " windows + R" y despues escribes cmd y se abre el simbolo de sistema, despues escribimos "ping google.com" y salen los datos requeridos como se muestra en la siguiente captura:
 
-![image](https://github.com/orsunyer/despliegue-de-aplicaciones-web/assets/144775484/64c134ac-ab90-4782-a91f-bcaa137a2365)
+![image](https://github.com/orsunyer/despliegue-de-aplicaciones-web/assets/144775484/82d2aa77-a17f-4d2e-8870-386df5d841f8)
+
